@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const MONGODB_URL = 'mongodb://localhost:27017/cleanease';
+const MONGODB_URL = 'mongodb+srv://ajayraja0903:0lKHH1YZNSSVKV6R@cluster0.7yitm3k.mongodb.net/';
 
 mongoose.connect(MONGODB_URL);
 
